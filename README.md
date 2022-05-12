@@ -1,1 +1,1 @@
-# CSIS3380-as1
+# An simple website to show random quotes
